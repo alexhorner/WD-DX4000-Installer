@@ -50,5 +50,5 @@ Notes:
 
 - If you have existing data on your DX4000, please take a backup. I am not liable for any data loss you endure as a result of using this software.
 - If you had a stock Windows installation RAID, it should be possible to retain this as MDADM should detect it an use it, as MDADM appears to support Intel Rapid RAID.
-- You will need to follow the old guide (the soldered install one, but don't worry, no soldering needed!) for the Fan and LCD setup. Find it at https://github.com/alexhorner/WD-DX000 .
+- You will need to follow the old guide (the soldered install one, but don't worry, no soldering needed!) for the Fan and LCD setup. Find it at https://github.com/alexhorner/WD-DX4000 .
 - If you have soldered wires to your DX4000 and want to use the serial console for the install instead of SSH, this has been enabled for you. Soldering to access the serial port is COMPLETELY OPTIONAL for this installer, as this installer is intended to work without even opening your DX4000's cover.
