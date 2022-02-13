@@ -24,6 +24,7 @@ cd ..
 
 ####Bring prerequisite files into the payload build directory####
 cp preseed.cfg payload/
+cp startup.nsh payload/
 #cp ../../../*.sh payload/source/
 #cp ../../../*.service payload/source/
 #cp ../../../it8721.conf payload/source/
@@ -73,7 +74,7 @@ fi
 cp initrd.gz iso/
 cp grub.cfg iso/boot/grub/
 #mkdir iso/EFI
-#cp startup.nsh iso/EFI/
+#cp startup.nsh iso/EFI
 
 ####Clear the final output directory####
 rm output/*
