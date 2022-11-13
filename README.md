@@ -3,6 +3,8 @@
 
 Work In Progress
 
+# Please use the prebuilt ISOs under Releases if you don't know what you're doing. If you do know what you're doing and want to use the scripts to assemble your own images, please test the prebuilt ISOs before reporting issues, and include the results!
+
 ---
 
 Credit goes to @1000001101000 for https://github.com/1000001101000/Debian_on_Intel_Terastations/
