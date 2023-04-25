@@ -3,7 +3,7 @@
 
 Work In Progress
 
-# Please use the prebuilt ISOs under Releases if you don't know what you're doing. If you do know what you're doing and want to use the scripts to assemble your own images, please test the prebuilt ISOs before reporting issues, and include the results!
+# Please use the prebuilt ISOs under Releases if you don't know what you're doing. If you do know what you're doing and want to use the scripts to assemble your own images, please test the prebuilt ISOs before reporting issues, and include the results! https://github.com/alexhorner/WD-DX4000-Installer/tags
 
 ---
 
