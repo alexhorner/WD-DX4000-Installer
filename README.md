@@ -8,10 +8,13 @@ Work In Progress
 ---
 
 ## Troubleshooting
+### Kernel modules error message
 ![image](https://github.com/alexhorner/WD-DX4000-Installer/assets/33007665/ce344fb8-ad4c-4d92-ab6b-72848cb2dab4)
 
 If you encounter this error page, please open an issue. This is caused by Debian removing kernel modules from their archive repository, and requires a refreshed ISO file to be built and released by myself.
 
+### Pings but won't SSH
+If you encounter this error page, please open an issue. I haven't checked what causes this, but I have found it is similar to the Kernel modules error message, and requires a refreshed ISO file to be built and released by myself.
 ---
 
 Credit goes to @1000001101000 for https://github.com/1000001101000/Debian_on_Intel_Terastations/
